@@ -1,13 +1,13 @@
 {
     "sortOrder": [
         {
-            "columnIndex": 2,
-            "ascending": true
-        },
-        {
             "columnIndex": 4,
             "ascending": false
+        },
+        {
+            "columnIndex": 2,
+            "ascending": true
         }
     ],
-    "path": "C:/Users/srhuet/Downloads/surf_nbpar_haie_bio_nonbio"
+    "path": "~/BiodivLabel/R"
 }

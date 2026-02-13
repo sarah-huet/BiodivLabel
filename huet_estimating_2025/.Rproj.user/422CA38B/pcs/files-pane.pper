@@ -2,12 +2,12 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": false
+            "ascending": true
         },
         {
             "columnIndex": 4,
             "ascending": false
         }
     ],
-    "path": "~/BiodivLabel/huet_estimating_2025"
+    "path": "C:/Users/srhuet/OneDrive/Research/GitHub/BiodivLabel/huet_estimating_2025"
 }
